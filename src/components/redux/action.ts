@@ -44,6 +44,9 @@ function validatesim(sim:string,service:string):any{
                 
 
             })
+            .catch(()=>{
+                console.log('failed to connect to API enpoints')
+            })
     }
 
 }
@@ -63,6 +66,9 @@ function validatecustomer(email:string,dob:string):any{
                 
 
             })
+            .catch(()=>{
+                console.log('failed to connect to API enpoints')
+            })
     }
 
 }
@@ -80,6 +86,9 @@ function validatecustomerdetails(first_name:string,last_name:string,email:string
                 })
                 
 
+            })
+            .catch(()=>{
+                console.log('failed to connect to API enpoints')
             })
     }
 
@@ -100,6 +109,9 @@ function validateid(first_name:string,last_name:string,dob:string,aadhar:string)
                 
 
             })
+            .catch(()=>{
+                console.log('failed to connect to API enpoints')
+            })
     }
 
 }
@@ -118,6 +130,9 @@ function specialoffer(sim:string,service:string):any{
                 })
                 
 
+            })
+            .catch(()=>{
+                console.log('failed to connect to API enpoints')
             })
     }
 
