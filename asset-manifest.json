@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/SimPortal/static/css/main.f855e6bc.css",
-    "main.js": "/SimPortal/static/js/main.9bfb7d2e.js",
+    "main.js": "/SimPortal/static/js/main.f842a043.js",
     "static/js/608.91edb398.chunk.js": "/SimPortal/static/js/608.91edb398.chunk.js",
     "static/js/453.e2833216.chunk.js": "/SimPortal/static/js/453.e2833216.chunk.js",
     "index.html": "/SimPortal/index.html",
     "main.f855e6bc.css.map": "/SimPortal/static/css/main.f855e6bc.css.map",
-    "main.9bfb7d2e.js.map": "/SimPortal/static/js/main.9bfb7d2e.js.map",
+    "main.f842a043.js.map": "/SimPortal/static/js/main.f842a043.js.map",
     "608.91edb398.chunk.js.map": "/SimPortal/static/js/608.91edb398.chunk.js.map",
     "453.e2833216.chunk.js.map": "/SimPortal/static/js/453.e2833216.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.9bfb7d2e.js"
+    "static/js/main.f842a043.js"
   ]
 }
