@@ -9,7 +9,7 @@ import { error } from "console"
 function fetchuser():any{
     
     return (dispatch:Dispatch)=>{
-        return Axios.get("http://localhost:3000/api/get_customer_details/")
+        return Axios.get("https://mp8a02d3b762ed4fffd4.free.beeceptor.com/")
             .then((res)=>{
 
                 console.log(res.data)
